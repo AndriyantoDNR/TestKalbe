@@ -1,0 +1,14 @@
+D:\Andri\Source\SisterSel\ItemMasterMagentoApi\ItemMasterMagentoApi\bin\Release\netcoreapp2.2\ItemMasterMagentoApi.deps.json
+D:\Andri\Source\SisterSel\ItemMasterMagentoApi\ItemMasterMagentoApi\bin\Release\netcoreapp2.2\ItemMasterMagentoApi.runtimeconfig.json
+D:\Andri\Source\SisterSel\ItemMasterMagentoApi\ItemMasterMagentoApi\bin\Release\netcoreapp2.2\ItemMasterMagentoApi.runtimeconfig.dev.json
+D:\Andri\Source\SisterSel\ItemMasterMagentoApi\ItemMasterMagentoApi\bin\Release\netcoreapp2.2\ItemMasterMagentoApi.dll
+D:\Andri\Source\SisterSel\ItemMasterMagentoApi\ItemMasterMagentoApi\bin\Release\netcoreapp2.2\ItemMasterMagentoApi.pdb
+D:\Andri\Source\SisterSel\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Release\netcoreapp2.2\ItemMasterMagentoApi.csprojAssemblyReference.cache
+D:\Andri\Source\SisterSel\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Release\netcoreapp2.2\ItemMasterMagentoApi.csproj.CoreCompileInputs.cache
+D:\Andri\Source\SisterSel\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Release\netcoreapp2.2\ItemMasterMagentoApi.RazorAssemblyInfo.cache
+D:\Andri\Source\SisterSel\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Release\netcoreapp2.2\ItemMasterMagentoApi.RazorAssemblyInfo.cs
+D:\Andri\Source\SisterSel\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Release\netcoreapp2.2\ItemMasterMagentoApi.AssemblyInfoInputs.cache
+D:\Andri\Source\SisterSel\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Release\netcoreapp2.2\ItemMasterMagentoApi.AssemblyInfo.cs
+D:\Andri\Source\SisterSel\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Release\netcoreapp2.2\ItemMasterMagentoApi.RazorTargetAssemblyInfo.cache
+D:\Andri\Source\SisterSel\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Release\netcoreapp2.2\ItemMasterMagentoApi.dll
+D:\Andri\Source\SisterSel\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Release\netcoreapp2.2\ItemMasterMagentoApi.pdb

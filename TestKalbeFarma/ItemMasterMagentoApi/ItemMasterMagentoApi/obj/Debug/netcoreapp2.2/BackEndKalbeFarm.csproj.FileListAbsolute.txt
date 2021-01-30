@@ -1,0 +1,14 @@
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\ItemMasterMagentoApi\ItemMasterMagentoApi\bin\Debug\netcoreapp2.2\BackEndKalbeFarm.deps.json
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\ItemMasterMagentoApi\ItemMasterMagentoApi\bin\Debug\netcoreapp2.2\BackEndKalbeFarm.runtimeconfig.json
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\ItemMasterMagentoApi\ItemMasterMagentoApi\bin\Debug\netcoreapp2.2\BackEndKalbeFarm.runtimeconfig.dev.json
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\ItemMasterMagentoApi\ItemMasterMagentoApi\bin\Debug\netcoreapp2.2\BackEndKalbeFarm.dll
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\ItemMasterMagentoApi\ItemMasterMagentoApi\bin\Debug\netcoreapp2.2\BackEndKalbeFarm.pdb
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Debug\netcoreapp2.2\BackEndKalbeFarm.AssemblyInfoInputs.cache
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Debug\netcoreapp2.2\BackEndKalbeFarm.AssemblyInfo.cs
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Debug\netcoreapp2.2\BackEndKalbeFarm.csproj.CoreCompileInputs.cache
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Debug\netcoreapp2.2\BackEndKalbeFarm.RazorAssemblyInfo.cache
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Debug\netcoreapp2.2\BackEndKalbeFarm.RazorAssemblyInfo.cs
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Debug\netcoreapp2.2\BackEndKalbeFarm.RazorTargetAssemblyInfo.cache
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Debug\netcoreapp2.2\BackEndKalbeFarm.dll
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Debug\netcoreapp2.2\BackEndKalbeFarm.pdb
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\ItemMasterMagentoApi\ItemMasterMagentoApi\obj\Debug\netcoreapp2.2\BackEndKalbeFarm.csprojAssemblyReference.cache

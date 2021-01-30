@@ -1,0 +1,13 @@
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\BackEndProject\bin\Debug\netcoreapp3.1\BackEndProject.exe
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\BackEndProject\bin\Debug\netcoreapp3.1\BackEndProject.deps.json
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\BackEndProject\bin\Debug\netcoreapp3.1\BackEndProject.runtimeconfig.json
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\BackEndProject\bin\Debug\netcoreapp3.1\BackEndProject.runtimeconfig.dev.json
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\BackEndProject\bin\Debug\netcoreapp3.1\BackEndProject.dll
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\BackEndProject\bin\Debug\netcoreapp3.1\BackEndProject.pdb
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\BackEndProject\obj\Debug\netcoreapp3.1\BackEndProject.csprojAssemblyReference.cache
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\BackEndProject\obj\Debug\netcoreapp3.1\BackEndProject.AssemblyInfoInputs.cache
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\BackEndProject\obj\Debug\netcoreapp3.1\BackEndProject.AssemblyInfo.cs
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\BackEndProject\obj\Debug\netcoreapp3.1\BackEndProject.csproj.CoreCompileInputs.cache
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\BackEndProject\obj\Debug\netcoreapp3.1\BackEndProject.dll
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\BackEndProject\obj\Debug\netcoreapp3.1\BackEndProject.pdb
+C:\Users\andri.rahmat\source\repos\TestKalbeFarma\BackEndProject\obj\Debug\netcoreapp3.1\BackEndProject.genruntimeconfig.cache
